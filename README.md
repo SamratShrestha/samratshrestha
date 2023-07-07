@@ -11,7 +11,9 @@ I have been working as software engineer with 4+ years of experience. I primaril
 *   ✉️  You can contact me at [samratshrestha4536@gmail.com](mailto:samratshrestha4536@gmail.com)
 *   🚀  I'm currently working on [Aspark Systems](http://www.asparksys.com)
 *   🧠  I'm learning Django, Linux, Deployement, Machine Learning.
-*   🤝  I'm open to collaborating on Docker, Ansible.### Skills 
+*   🤝  I'm open to collaborating on Docker, Ansible.
+
+### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
